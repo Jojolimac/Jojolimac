@@ -8,9 +8,6 @@
 ## 🔧 Tecnologias que estou aprendendo:
 - Java | Python | JavaScript (básico)
 - HTML & CSS
-- Git e GitHub
-- Programação Orientada a Objetos
-- VS Code
 
 ## 📚 Certificações:
 - Programmer – Descomplica
