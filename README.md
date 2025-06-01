@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou Jordy Lima!
 
-<!--
-**Jojolimac/Jojolimac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – Descomplica  
+💻 Em transição de carreira para a área de tecnologia  
+🎯 Foco em Desenvolvimento Back-End  
+🌱 Atualmente estudando Java, Python, Git e Lógica de Programação  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que estou aprendendo:
+- Java | Python | JavaScript (básico)
+- HTML & CSS
+- Git e GitHub
+- Programação Orientada a Objetos
+- VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Certificações:
+- Programmer – Descomplica
+- Basic FrontEnd – Descomplica
+- Ferramentas e Aplicações da Inteligência Artificial – Descomplica
+
+## 📁 Projetos
+Em breve, repositórios com:
+- Exercícios práticos de lógica e POO
+- Projetos simples em Java e Python
+- Sites com HTML, CSS e JS
+
+## 🌐 Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/jojolimac)
+- [E-mail](mailto:jordy.lima19@proton.me)
